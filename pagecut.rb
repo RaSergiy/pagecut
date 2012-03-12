@@ -14,7 +14,7 @@
 }
 @c44opts=@djvuenc['0']
 
-puts "stsl.rb"
+puts "pagecut.rb"
 if ARGV.size != 2
   puts "
 ИСПОЛЬЗОВАНИЕ: pagecut.rb <действие> <файл конфигурации>
